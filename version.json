@@ -1,11 +1,11 @@
 {
   "applicationId": "com.example.application",
-  "versionCode": 1,
-  "versionName": "1.0",
+  "versionCode": 2,
+  "versionName": "1.1",
   "minSdk": 24,
-  "downloadUrl": "https://github.com/heijiazi/expiry-keeper-releases/releases/download/v1.0/expiry-keeper-1.0.apk",
+  "downloadUrl": "https://github.com/heijiazi/expiry-keeper-releases/releases/download/v1.1/expiry-keeper-1.1.apk",
   "releaseNotes": {
-    "zh-CN": "保质期管家 1.0 正式版：记录物品照片与到期日期，支持自定义分类、提前提醒、中英文界面和个人资料。",
-    "en": "Expiry Keeper 1.0: track photos and expiry dates, organize custom categories, receive reminders, choose Chinese or English, and edit your profile."
+    "zh-CN": "保质期管家 1.1\n\n• 优化了搜索功能的UI，提升该功能的便捷性\n• 优化了新增或修改物品时，在选择类别时的UI表现，提升该功能的便捷性",
+    "en": "Expiry Keeper 1.1\n\n• Improved the search interface to make searching easier and more convenient.\n• Improved the category selection interface when adding or editing an item, making it easier to choose a category."
   }
 }
